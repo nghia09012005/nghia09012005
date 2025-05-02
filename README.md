@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://github.com/nghia09012005">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/nghia09012005?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <a href="nghiatran912005@gmail.com">
+  <a href="mailto:nghiatran912005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/feed/)">
+  <a href="https://www.linkedin.com/in/nghia09012005/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -19,9 +19,9 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently a student at Ho Chi Minh University of technology (HCMUT)
-- 🌱 I’m currently learning **React, Spring Boot, Redis, React, Websocket**
-- 🧠 Interested in open-source, backend systems, frontend systems
+- 🎓 I'm currently a student at Ho Chi Minh University of Technology (HCMUT)
+- 🌱 I’m currently learning **React, Spring Boot, Redis, WebSocket**
+- 🧠 Interested in open-source, backend systems, and frontend systems
 - 💬 Ask me about **Java, C++, Python, Web Dev, React**
 - ⚡ Fun fact: I love coffee and late-night coding
 
@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nghia09012005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghia09012005&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
@@ -58,8 +58,6 @@
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
 
 <!---
 nghia09012005/nghia09012005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
