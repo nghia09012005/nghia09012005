@@ -1,0 +1,67 @@
+<h1 align="center">Hi 👋, I'm Trần Nguyễn Phú Nghĩa</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Open-source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/nghia09012005">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="nghiatran912005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/feed/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 I'm currently a student at Ho Chi Minh University of technology (HCMUT)
+- 🌱 I’m currently learning **React, Spring Boot, Redis, React, Websocket**
+- 🧠 Interested in open-source, backend systems, frontend systems
+- 💬 Ask me about **Java, C++, Python, Web Dev, React**
+- ⚡ Fun fact: I love coffee and late-night coding
+
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring&logoColor=6DB33F)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📝 Blog: [yourblog.com](https://yourblog.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
+
+<!---
+nghia09012005/nghia09012005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
