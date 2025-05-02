@@ -10,7 +10,7 @@
   <a href="mailto:nghiatran912005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nghia09012005/">
+  <a href="[https://www.linkedin.com/in/nghia09012005/](https://www.linkedin.com/in/ngh%C4%A9a-tr%E1%BA%A7n-55b7b7314/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
