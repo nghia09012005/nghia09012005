@@ -41,6 +41,14 @@
 
 ---
 
+### 📂 Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 🖥️ **WDA-FE** | Giao diện người dùng cho hệ thống thông tin sự kiện WDA. Người dùng có thể duyệt, tìm kiếm, đăng ký tham gia sự kiện, và quản lý tài khoản. Giao diện được tối ưu cho trải nghiệm trên desktop và mobile. | ReactJS, TailwindCSS, Zustand, React Router, Axios | [🔗 GitHub](https://github.com/nghia09012005/wda2025) |
+| 🛠️ **WDA-BE** | API backend hỗ trợ cho frontend, bao gồm đăng ký/đăng nhập người dùng, phân quyền (user/admin), quản lý sự kiện, thống kê, bảo mật JWT, Redis caching, gửi email xác thực. | Spring Boot, MySQL, Redis, Spring Security, JWT, JPA, Mail API | [🔗 GitHub](https://github.com/nghia09012005/WDA-BE) |
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
