@@ -60,8 +60,8 @@
 
 ### 🌐 Let's Connect
 
-- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📝 Blog: [yourblog.com](https://yourblog.com)
+- 🌍 Mail: nghiatran912005@gmail.com
+<!---- 📝 Blog: [yourblog.com](https://yourblog.com)-->
 
 ---
 
