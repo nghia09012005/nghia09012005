@@ -40,7 +40,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
 ---
-<!--
+
 ### 📂 Projects
 
 | Project | Description | Tech Stack | Repository |
@@ -49,7 +49,7 @@
 | 🛠️ **WDA-BE** | API backend hỗ trợ cho frontend, bao gồm đăng ký/đăng nhập người dùng, phân quyền (user/admin), quản lý sự kiện, thống kê, bảo mật JWT, Redis caching, gửi email xác thực. | Spring Boot, MySQL, Redis, Spring Security, JWT, JPA, Mail API | [🔗 GitHub](https://github.com/nghia09012005/WDA-BE) |
 | 🏆 **Giải thưởng** | Đạt **Giải Nhất** tại cuộc thi **WebDev Adventure**, ghi nhận sự sáng tạo và tính hoàn thiện của dự án. | — | — |
 
--->
+
 
 ### 📊 GitHub Stats
 
