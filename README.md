@@ -48,6 +48,9 @@
 | 🖥️ **WDA-FE** | Giao diện người dùng cho hệ thống thông tin sự kiện WDA. Người dùng có thể duyệt, tìm kiếm, đăng ký tham gia sự kiện, và quản lý tài khoản. Giao diện được tối ưu cho trải nghiệm trên desktop và mobile. | ReactJS, TailwindCSS, Zustand, React Router, Axios | [🔗 GitHub](https://github.com/nghia09012005/wda2025) |
 | 🛠️ **WDA-BE** | API backend hỗ trợ cho frontend, bao gồm đăng ký/đăng nhập người dùng, phân quyền (user/admin), quản lý sự kiện, thống kê, bảo mật JWT, Redis caching, gửi email xác thực. | Spring Boot, MySQL, Redis, Spring Security, JWT, JPA, Mail API | [🔗 GitHub](https://github.com/nghia09012005/WDA-BE) |
 | 🏆 **Giải thưởng** | Đạt **Giải Nhất** tại cuộc thi **WebDev Adventure**, ghi nhận sự sáng tạo và tính hoàn thiện của dự án. | — | — |
+|---------|-------------|------------|------------|
+| 🖥️ **SOLANA-PRAGMATIC** | Giao diện người dùng của VNTOUR – nền tảng du lịch ứng dụng blockchain Solana nhằm tăng tương tác và trải nghiệm thực địa. Người dùng có thể quét mã QR tại các điểm du lịch, tham gia mini-game để nhận token phần thưởng và NFT chứng nhận đã trải nghiệm. | ReactJS, TailwindCSS, Zustand, React Router, Axios  | [🔗 GitHub](https://github.com/nghia09012005/Solana_Pragmatic-.git) |
+| 🏆 **Giải thưởng** | Đạt **Giải Ba** tại cuộc thi **Solana Pragmatic**, ghi nhận sự sáng tạo và tính hoàn thiện của dự án. | — | — |
 
 
 
